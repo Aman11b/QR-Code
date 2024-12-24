@@ -40,14 +40,19 @@ body{
     height: 100%;
 }
 .content{
+    gap:0.5rem;
+    padding: 0.2rem;
+}
+.content >h5{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-self: center;
-    padding: 0.3rem;
-    gap:0.3rem;
 }
 .desc{
+    padding: 0.1rem;
+}
+.desc >p{
     font-size: 12px;
     font-weight: 200;
 }
@@ -64,10 +69,10 @@ body{
 
 @media(max-width:375px){
     .container{
-        width:90%;
+        width:70%;
         height: auto;
     }
-    .desc{
+    .desc >p{
     font-size: 12px;
     font-weight: 200;
     }
