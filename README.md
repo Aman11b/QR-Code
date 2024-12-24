@@ -29,13 +29,6 @@ This is a simple QR code component project built using **HTML** and **CSS**. The
 
 ## Enjoy coding! 🚀
 
-javascript
-```
-
-Replace `<repository-url>` with your actual GitHub repository URL and adjust the GitHub Pages link in the **Deployment** section accordingly.
-
-```
-
 
 
 
